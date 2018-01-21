@@ -1,7 +1,7 @@
 # coders-bay
 Web App using Firebase database to store data on the backend.  This application will run on multiple browser windows simultaneously and register click events on each screen correctly.
  
- ![](https://graphitepublications.com/wp-content/uploads/2015/04/5-Coding-Challenges-to-Help-You-Train-Your-Brain.jpg)
+ ![](https://graphitepublications.com/wp-content/uploads/2015/04/5-Coding-Challenges-to-Help-You-Train-Your-Brain.jpg {width=250px height=175px})
 
 # Built With
 
