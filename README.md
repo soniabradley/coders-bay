@@ -4,9 +4,11 @@ Web App using Firebase database to store data on the backend.  This application 
  <!-- ![](https://graphitepublications.com/wp-content/uploads/2015/04/5-Coding-Challenges-to-Help-You-Train-Your-Brain.jpg) -->
  <img src="https://graphitepublications.com/wp-content/uploads/2015/04/5-Coding-Challenges-to-Help-You-Train-Your-Brain.jpg" width="300" height="175">
 
+* [See](https://soniabradley.github.io/coders-bay/) Web Application.
+
 # Built With
 
-* [snapshot.child().exists()](https://firebase.google.com/docs/reference/js/firebase.database.DataSnapshot) Firebase has a built in method called child and exists.  Looks through the snapshot for a child(specific-type)and checks if it is exists within the database, then returns true or false.
+* [snapshot.child().exists()](https://firebase.google.com/docs/reference/js/firebase.database.DataSnapshot) Firebase has a built in method called child and exists.  Looks through the snapshot for a child()and checks if it is exists() within the database, then returns true or false.
 * [database.ref().set()](https://firebase.google.com/docs/reference/js/firebase.database.Reference) Sends data to Firebase.
 
 # Deployment
